@@ -19,6 +19,8 @@ class Solution {
                 ans=ans+(count*prev);
                 prev=count;
 
+                /*hello question */
+
             }
 
 
