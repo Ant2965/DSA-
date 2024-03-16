@@ -35,6 +35,7 @@ n is a multiple of 3.
 1 <= nums[i] <= 105
 1 <= k <= 105 */
 
+import java.util.Arrays;
 
 class Solution {
     public int[][] divideArray(int[] nums, int k) {
