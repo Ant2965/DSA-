@@ -29,4 +29,6 @@ public class RequestProcessing {
         int[] cache = {1, 1, 1, 3, 1};
         System.out.println(getMinTime(n, cache)); // Output: 3
     }
+
+    ljlj
 }
